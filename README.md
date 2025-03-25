@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/56dc946d-8c23-44da-8d94-3531d2a161b7)# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
@@ -8,10 +8,10 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Load the dataset, drop unnecessary columns, handle missing values and duplicates, and encode categorical variables using LabelEncoder.
+2. Separate features (x) and target (y), then split the dataset into training and testing sets using train_test_split.
+3. Train a Logistic Regression model on the training data and use it to predict outcomes on the test set.
+4. Compute accuracy, confusion matrix, and classification report, then visualize the confusion matrix.
 
 ## Program:
 ```
